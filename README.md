@@ -5,7 +5,8 @@ This application is a simple calculator built with React, a popular JavaScript l
 
 ## Demo
 
-[calc.webm](https://github.com/DheerajKandoor/REACT-CALC/assets/92793181/2169cbf9-50fa-4eb2-b9e8-0b21d584cbe2)
+![calc](https://github.com/DheerajKandoor/REACT-CALC/assets/92793181/fae3ea7a-1695-4623-b6fd-db0aceb2ab42)
+
 
 
 
