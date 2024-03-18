@@ -33,4 +33,4 @@ npm start
 5. Open in Browser:
 Open your web browser and visit http://localhost:3000 to play the game.
 
-6. **DEPLOYMENT**: [Link to deployed project](https://entnt-erp-system.onrender.com/)
+6. **DEPLOYMENT**: [Link to deployed project](https://react-calc-a0cw.onrender.com/)
